@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+
+<html>
+
+<style>
+    table {
+        width: 500px;
+        margin: auto;
+        background-color: #FFB6C1;
+        color: #FFFFFF;
+    }
+    td {
+        padding: 10px;
+    }
+</style>
+
+<table>
+
+    <tr>
+        <th>Week Events</th>
+        <th>Weekend Events</th>
+    </tr>
+
+    <tr>
+        <td>School</td>
+        <td>Rehearsals</td>
+    </tr>
+    <tr>
+        <td>Chores</td>
+        <td>Voice Lessons</td>
+    </tr>
+
+    <tr>
+        <td>Dance Classes</td>
+        <td>Going Out With Friends</td>
+    </tr>
+
+    <tr>
+        <td>Walk The Dog</td>
+        <td>Going Out To Dinner</td>
+    </tr>
+</table>
